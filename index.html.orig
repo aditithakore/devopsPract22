@@ -18,9 +18,15 @@
             </a>            
         </div>
             <div class="content-body">
+<<<<<<< HEAD
+                <div class="success-text">hello world</div>
+                <div class="description line-1"> this is DevOps Practical</div>
+                <div class="description line-2"> Hope youve fun</div>
+=======
                 <div class="success-text">Hello minnaa!</div>
                 <div class="description line-1"> THis is the changes from branch2</div>
                 <div class="description line-2"> This is the last line of editing bye!</div>
+>>>>>>> branch2
                 <div class="next-steps-container">
                     <div class="next-steps-header">bye</div>
                     <div class="next-steps-body">
